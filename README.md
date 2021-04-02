@@ -114,4 +114,4 @@ g++ --version
 (É normal que tenham uma versão diferente, mas não precisam de se preocupar!)
 
 ### FIM
-Quaisquer dúvidas adicionais recorram aos canais de discord atribuídos para esse fim.
+Quaisquer dúvidas adicionais recorram aos canais de [discord](https://discord.gg/9g6f5PcQ8C) atribuídos para esse fim.
