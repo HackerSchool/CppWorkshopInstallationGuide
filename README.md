@@ -100,7 +100,7 @@ sudo apt-get install g++ -y
 
 - **macOS**:
 
-Abre o terminal e corre o seguinte comando: 
+Abre o terminal e corre o seguinte comando ([Homebrew](https://brew.sh/)): 
 ```
 brew install g++
 ```
